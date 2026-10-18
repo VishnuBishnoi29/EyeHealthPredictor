@@ -2,8 +2,6 @@
 
 An eye health prediction project that explores how machine learning can support preliminary eye health risk assessment. The project aims to demonstrate the application of data science and predictive modeling to a healthcare-related problem.
 
-🔗 **GitHub Repository:** [EyeHealthPredictor](https://github.com/VishnuBishnoi29/EyeHealthPredictor)
-
 ## 📌 Project Overview
 
 EyeHealthPredictor is a data science project focused on using predictive techniques to analyze eye health-related information and generate predictions based on the model and inputs implemented in the project.
